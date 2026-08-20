@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiang Haotian"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student in Electronics at Nanyang Technological University (NTU), with research interests in antenna design, RF and microwave engineering, wireless communications, and wearable technologies."
+  bio              : "Master's student in Electronics at Nanyang Technological University"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : # URL
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : www.linkedin.com/in/jianghaotian # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
