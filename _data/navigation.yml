@@ -9,7 +9,7 @@
 
 main:   
     
-   - title: "Research"
+  - title: "Research"
     url: /portfolio/
         
   #- title: "Blog Posts"
