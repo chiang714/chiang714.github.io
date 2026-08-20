@@ -1,13 +1,10 @@
 ---
-
 permalink: /
 title: "About Me"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 I am currently pursuing a **Master's degree in Electronics** at the **School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore**. My research interests lie in **antennas and RF engineering**, with a particular focus on antenna design for wireless communications, wearable and biomedical applications, and emerging wireless technologies.
