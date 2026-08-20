@@ -16,7 +16,8 @@ My current research focuses on **wearable antenna design** and the use of **arti
 
 I am interested in pursuing further research in **antennas, electromagnetics, and wireless systems**, particularly in developing practical antenna technologies for next-generation wireless and healthcare applications.
 
-## Research Interests
+Research Interests
+======
 
 * Antennas and RF Engineering
 * Wearable and Biomedical Antennas
@@ -24,7 +25,8 @@ I am interested in pursuing further research in **antennas, electromagnetics, an
 * Wireless Communications
 * RF and Microwave Systems
 
-## Education
+Education
+======
 
 **Nanyang Technological University (NTU)**
 Master of Science in Electronics
@@ -34,9 +36,11 @@ School of Electrical and Electronic Engineering (EEE)
 Bachelor of [Your Degree]
 [Your Department / School]
 
-## Research
+Research
+======
 
-### AMC-Based Wearable UHF RFID Tag Antenna
+AMC-Based Wearable UHF RFID Tag Antenna
+-----
 
 My current research investigates an AMC-based wearable UHF RFID tag antenna designed for stable operation in close proximity to the human body. The work focuses on mitigating human-body loading effects while maintaining effective impedance matching and radiation performance.
 
