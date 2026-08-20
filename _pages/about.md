@@ -22,15 +22,6 @@ Research Interests
 * Wireless Communications
 * RF and Microwave Systems
 
-Education
-======
 
-**Nanyang Technological University (NTU)**
-Master of Science in Electronics
-School of Electrical and Electronic Engineering (EEE)
-
-**Wuhan University (WHU)**
-Bachelor of Science in Electronic Information Science and Technology
-Electronic Information School (EIS)
 
 
